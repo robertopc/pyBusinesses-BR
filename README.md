@@ -86,7 +86,7 @@ Logo | Empresa | Site | Contato | Vagas
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.com.br](http://www.avaluesistemas.com.br) | site ainda a lançar 
+![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.com.br](http://www.avaluesistemas.com.br) | site ainda a lançar
 
 #### Dourados
 
@@ -105,6 +105,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/liberiun.png) | Liberiun | [http://www.liberiun.com/](http://www.liberiun.com/) | 55 61 3041-8172
 ![logo](logos/default.png) | Maption | [http://maption.com.br/](http://maption.com.br/) | contact@maption.com.br
 ![logo](logos/serpro.png) | SERPRO | [http://www.serpro.gov.br](http://www.serpro.gov.br) | 55 61 2021-7666
+![logo](logos/lightbase.png) | Lightbase | [http://www.lightbase.com.br](http://www.lightbase.com.br) | 55 61 3347-1949
 
 ## Sudeste
 
@@ -116,11 +117,13 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/2xt.png) | 2XT | [http://www.2xt.com.br/](http://www.2xt.com.br/) | 55 31 3292-2120
 ![logo](logos/default.png) | BoxCoder | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
-![logo](logos/intip.png) | Intip | [http://www.intip.com.br/](http://www.intip.com.br/) | 55 31 2526-2623
+![logo](logos/hekima.png)| Hekima | [http://hekima.com/pt-br/](http://hekima.com/pt-br/) | 55 31 2516-4812 | https://hekima.recruiterbox.com/
+![logo](logos/intip.png) | Intip | [http://www.intip.com.br/](http://www.intip.com.br/) | 55 31 2551-8209
 ![logo](logos/meliuz.png) | Méliuz | [https://www.meliuz.com.br/](https://www.meliuz.com.br/) | | [https://meliuz.recruiterbox.com/jobs](https://meliuz.recruiterbox.com/jobs)
 ![logo](logos/prodap.png) | Prodap | [http://www.prodap.com.br/pt/](http://www.prodap.com.br/pt/) | 55 31 3555-0800
 ![logo](logos/studiosol.png) | StudioSol | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | 55 31 2127-2540
 ![logo](logos/silex-sistemas.png) | Sílex Sistemas | [http://www.silexsistemas.com.br/](http://www.silexsistemas.com.br/) | 55 31 3273-1530
+![logo](logos/superbuy.png) | Superbuy | [http://www.superbuy.com.br/](http://www.superbuy.com.br/) | 55 31 3071-4800
 ![logo](logos/tivit.png) | TIVIT | [http://www.tivit.com/](http://www.tivit.com/)
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-mg@elipse.com.br +55 (31) 4062 5824
@@ -170,7 +173,7 @@ Logo | Empresa | Site | Contato | Vagas
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/databrain.png) | Dextra | [http://databrain.com.br](http://databrain.com.br) | 55 11 98587-8650
+![logo](logos/databrain.png) | Data Brain | [http://databrain.com.br](http://databrain.com.br) | 55 11 98587-8650
 
 
 #### Limeira
@@ -231,9 +234,10 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) | jose.maciel@vivadecora.com.br
 ![logo](logos/filmow.png) | filmow.com | [http://filmow.com](http://filmow.com) | 55 (11) 3512-6600
 ![logo](logos/pontotel.png) | PontoTel | [http://www.pontotel.com.br/](http://www.pontotel.com.br/) | dev@pontotel.com.br
-![logo](logos/scielo.png) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
+![logo](logos/scielo.png) | Scielo | [http://www.scielo.org](http://www.scielo.org) | 55 (11) 5083-3639 | scielo-dev@googlegroups.com
 ![logo](logos/nuveo.png) | Nuveo | [https://nuveo.com.br](https://nuveo.com.br) | 55 (11) 3280-3132
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-sp@elipse.com.br +55 (11) 4062 5824
+![logo](logos/zap.png) | ZAP Imóveis | [https://www.zapimoveis.com.br](https://www.zapimoveis.com.br) | https://www.99jobs.com/zap-s-a-internet
 
 ### Rio de Janeiro
 
@@ -295,6 +299,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) |
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | elipse@elipse.com.br +55 (51) 4062 5824
+![logo](logos/zap.png) | ZAP Imóveis | [https://www.zapimoveis.com.br](https://www.zapimoveis.com.br) | https://www.99jobs.com/zap-s-a-internet
 
 #### Santa Maria
 
@@ -316,6 +321,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Cliix | [http://cliix.io](http://cliix.io) | jobs@cliix.io
 ![logo](logos/contentools.png) | Contentools | [http://contentools.com ](http://contentools.com) | willian.miranda@contentools.com.br
 ![logo](logos/default.png) | D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
+![logo](logos/esss.png) | ESSS | [http://esss.com.br/](http://esss.com.br/) | [Venha trabalhar conosco](http://esss.com.br/empresa_trabalhe_conosco.php)
 ![logo](logos/default.png) | M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 ![logo](logos/default.png) | Myreks | [http://www.myreks.com](http://www.myreks.com) | carrers@myreks.com
 ![logo](logos/default.png) | Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
